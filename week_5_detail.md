@@ -7,11 +7,6 @@
 
 <table>
 <tr>
-<td>wk</td>
-<td>Tuesdays (due on date listed)</td>
-<td>Thursdays (due on date listed)</td>
-</tr>
-<tr>
   <td valign="top"><strong>5</strong></td>
   <td valign="top" width="48%"><strong>1st Half</strong></td>
   <td valign="top" width="48%"><strong>2nd Half<strong></td>

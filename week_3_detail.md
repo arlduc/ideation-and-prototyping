@@ -7,11 +7,6 @@
 
 <table>
 <tr>
-<td>wk</td>
-<td>Tuesdays (due on date listed)</td>
-<td>Thursdays (due on date listed)</td>
-</tr>
-<tr>
   <td valign="top">3</td>
   <td valign="top" width="48%"><strong>Sep 19</strong></td>
   <td valign="top" width="48%"><strong>Sep 21</strong></td>
