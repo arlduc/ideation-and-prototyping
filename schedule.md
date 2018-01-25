@@ -31,7 +31,7 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
 <li>Personal Inventories</li>
 </ul>
 </a>
-</td>
+
 </tr>
 <tr>
 <td valign="top">2</td> 
