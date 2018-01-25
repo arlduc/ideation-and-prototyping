@@ -24,8 +24,7 @@
 
 </td>
 
-<!-- 2nd column class -->
-<td valign="top" width="48%">Nov 24<br><i>NO CLASS: Thanksgiving Holiday</i></td>
+
  
 </tr>
 
