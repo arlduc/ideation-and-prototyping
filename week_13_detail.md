@@ -1,5 +1,5 @@
-# DM-UY 1143 Ideation and Prototyping
-##### Fall 2017 • De Angela L. Duff • Tuesdays and Thursdays • 2:30-4:20pm • 2MTC MAGNET 811
+### DM-UY 1143 Ideation and Prototyping
+##### Spring 2018 • Arlene Ducao • Fridays • 11:00AM-2:40PM • 2MTC MAGNET 820
 
 ---
 ## [Schedule:](schedule.md) Week 13
@@ -13,8 +13,8 @@
 </tr>
 <tr>
   <td valign="top"><strong>13</strong></td>
-  <td valign="top" width="48%"><strong>Nov 28</strong></td>
-  <td valign="top" width="48%"><strong>Nov 30</strong></td>
+  <td valign="top" width="48%"><strong>1st Half</strong></td>
+  <td valign="top" width="48%"><strong>2nd Half<strong></td>
 </tr>
 <tr>
 <td valign="top"><strong>class</strong></td>
