@@ -69,7 +69,7 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
 </tr>
 <tr>
 <td valign="top">4</td>
-<td valign="top">Feb 6<br>Creative Process Annotated Bibliography and Video Documentary:
+<td valign="top">Feb 16<br>Creative Process Annotated Bibliography and Video Documentary:
 <a href="week_4_detail.md"><ul>
 <li>Discuss Creative Process</li>
 <li>Select Creator and Form Midterm Teams</li>
