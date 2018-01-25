@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [README](README.md)
 * [Syllabus](syllabus.md)
 * [Schedule](schedule.md)
   * [Week 1 Detail Jan 26](week_1_detail.md)
