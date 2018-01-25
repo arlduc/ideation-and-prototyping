@@ -99,7 +99,7 @@ Discuss:
   <li>Get setup with a <a href="process_website.md" target="_blank">process website</a> to post your homework</li>
   <li>Email your wordpress or tumblr URL to the instructor</li>
   <li>Read <a href="http://teaching.polishedsolid.com/ip/mod1/content/index.html" target="_blank">Module 1</a></li>
-  <li>Create your first post on your process website; post your constant input or output details (what are you going to do?) including proposed schedule (when? actual dates. make due dates tuesdays.)</li>
+  <li>Create your first post on your process website; post your constant input or output details (what are you going to do?) including proposed schedule (when? actual dates. make due dates Fridays.)</li>
   </td>
 </table>
 
