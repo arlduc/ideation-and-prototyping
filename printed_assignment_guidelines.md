@@ -1,5 +1,6 @@
 ### DM-UY 1143 Ideation and Prototyping
-##### Spring 2018 • Arlene Ducao • Fridays • 11:00AM-2:50PM • 2MTC MAGNET 811
+
+##### Spring 2018 • Arlene Ducao • Fridays • 11:00AM-2:40PM • 2MTC MAGNET 811
 
 # Printed Assignment Guidelines
 
@@ -7,14 +8,11 @@ As with all written work, proofread for spelling and grammar. This is where work
 
 Any printed work that you will turn in, should always contain the following:
 
-*   Date
-*   Your first and last name
-*   Ideation &amp; Prototyping
-*   Spring 2018
-*   Ducao
+* Date
+* Your first and last name
+* Ideation & Prototyping
+* Spring 2018
+* Ducao
 
 All written assignments should be submitted as a pdf on slack as a direct message to the instructor.
-
-
-
 

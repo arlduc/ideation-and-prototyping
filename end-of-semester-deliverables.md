@@ -1,5 +1,5 @@
 ### DM-UY 1143 Ideation and Prototyping
-##### Spring 2018 • Arlene Ducao • Fridays • 11:00AM-2:50PM • 2MTC MAGNET 820
+##### Spring 2018 • Arlene Ducao • Fridays • 11:00AM-2:40PM • 2MTC MAGNET 820
 ---
 
 # END OF SEMESTER DELIVERABLES

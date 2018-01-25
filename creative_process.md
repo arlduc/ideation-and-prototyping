@@ -1,16 +1,18 @@
 ### DM-UY 1143 Ideation and Prototyping
-##### Spring 2018 • Arlene Ducao • Fridays • 11:00AM-2:50PM • 2MTC MAGNET 820
+
+##### Spring 2018 • Arlene Ducao • Fridays • 11:00AM-2:40PM • 2MTC MAGNET 820
 
 # Creative Process Annotated Bibliography & Video Documentary
 
 Working in groups of two, you will research, analyze, evaluate, and communicate the research & design processes of a creator from a discipline of your team’s choice. The final form of this research project will be an annotated bibliography and video documentary of 1 to 3 minutes in length.
 
-Student | Creator
---- | --- 
+| Student | Creator |
+| --- | --- |
+
 
 Recommended Choices \(check with me if you'd like to choose someone else\):
 
-* * Sarah Blakely 
+* Sarah Blakely 
 * Hedy Lamar 
 * Pauline Oliveros
 * Thich Nat Hanh
@@ -57,7 +59,6 @@ Recommended Choices \(check with me if you'd like to choose someone else\):
 * Kathryn Bigelow
 * Paula Scher
 * Twyla Tharp
-
 
 The key to your research is a proliferation of references on your subject, particularly interviews, sketchbooks, notebooks, and/or journals or other reflective writing which can give your team insights into the research and design processes of your subject.
 

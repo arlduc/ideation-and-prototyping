@@ -1,5 +1,6 @@
 ### DM-UY 1143 Ideation and Prototyping
-##### Spring 2018 • Arlene Ducao • Fridays • 11:00AM-2:50PM • 2MTC MAGNET 811
+
+##### Spring 2018 • Arlene Ducao • Fridays • 11:00AM-2:40PM • 2MTC MAGNET 811
 
 # Process Website
 
@@ -13,11 +14,12 @@ Documentation of your creative process is an integral part of your creative work
 With this in mind, throughout the duration of the semester each student must carefully document all of the work created in this class, from brainstorming sessions with post-it notes to pages in a sketchbook to rough prototypes. You will post this documentation on your process website on a daily or weekly basis.
 
 You have several options:
+
 * Create a dedicated wordpress via [http://wp.nyu.edu](http://wp.nyu.edu)
 * Create a dedicated [tumblr](http://tumblr.com) for this course only.
-* Get wordpress installed via sites.bxmc.poly.edu (see below) in a directory labeled **ip**
-* If you already have a sites.bxmc.poly.edu account, have elton install another instance of wordpress in a directory labeled **ip** (see below)
-* Alternatively create a **ip** directory if you already have server space of your own via an ISP (Internet Service Provider), and install wordpress in that directory.
+* Get wordpress installed via sites.bxmc.poly.edu \(see below\) in a directory labeled **ip**
+* If you already have a sites.bxmc.poly.edu account, have elton install another instance of wordpress in a directory labeled **ip** \(see below\)
+* Alternatively create a **ip** directory if you already have server space of your own via an ISP \(Internet Service Provider\), and install wordpress in that directory.
 
 #### Wordpress Group Registration
 
@@ -28,4 +30,8 @@ Group registration for IDM server accounts TBD.
 Please remember to bring your laptop with you when you visit a session.
 
 If you choose wordpress on bxmc.poly.edu, set up your class website at
-  * http://sites.bxmc.poly.edu/~yourfirstnamelastname/ip
+
+* [http://sites.bxmc.poly.edu/~yourfirstnamelastname/ip](http://sites.bxmc.poly.edu/~yourfirstnamelastname/ip)
+
+
+
