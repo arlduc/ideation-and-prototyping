@@ -47,7 +47,7 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
 </ul>
 </a></td>
 </tr>
-<tr>
+<tr><td></td>
 <td valign="top">Mon Feb 4<br><i>Last day to drop Spring 2018 classes and not receive a grade of "W"</i></td>
 </tr>
 <tr>
