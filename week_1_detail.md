@@ -76,7 +76,7 @@ Discuss:
 <tr>
 <td>Film and post by 9AM next Friday.</td>
 <td></td>
-<td><a href="personal_inventory.md">Finish Your Personal Inventory</a>
+<td><a href="personal_inventory.md">Finish Your Personal Inventory</a><br>
 <a href="input_map.md">Your Inputs Map</a></td>
 </tr>
 
