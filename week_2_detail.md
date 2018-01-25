@@ -60,7 +60,6 @@
 <td>Create</td>
 <td>
 <ul>
-<li><a href="input_map.md">Your Inputs Map</a></li>
 <li>(if applicable this week), your <a href="">constant input / output assignment</a> on your process website.</li>
 </ul>
 </td>

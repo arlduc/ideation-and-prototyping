@@ -74,9 +74,10 @@ Discuss:
 
 <!-- film -->
 <tr>
-<td>Film and post by or BEFORE noon at Thursday</td>
+<td>Film and post by 9AM next Friday.</td>
 <td></td>
-<td><a href="personal_inventory.md">Your Personal Inventory</a></td>
+<td><a href="personal_inventory.md">Finish Your Personal Inventory</a></td>
+<li><a href="input_map.md">Your Inputs Map</a></li>
 </tr>
 
 <!-- write -->
