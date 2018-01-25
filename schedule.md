@@ -142,7 +142,9 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
 </ul></a>
 </td>
 </tr>
-<tr><td> <b>NO CLASS on MARCH 16: SPRING BREAK</b></td></tr>
+<tr><td valign="top"></td>
+<td valign="top" colspan="2">Fri Mar 30<br><strong><i>Last Day to Withdraw</i></strong></td>
+</tr>
 <tr>
 <td valign="top">8</td>     
 <td valign="top">Mar 23<br>Creative Process Annotated Bibliography and Video Documentary: 
