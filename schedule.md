@@ -35,13 +35,12 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
 </tr>
 <tr>
 <td valign="top">2</td> 
-<td valign="top">Sept 12
+<td valign="top">Feb 2
 <a href="week_2_detail.md">
 <ul>
 <li>Input Maps</li>
 <li>(if applicable) constant input or output</li>
-</ul></td>
-<td valign="top">Sep 14
+</ul>
 <a href="week_2_detail.md">
 <ul>
 <li>In-class Exercise</li>
@@ -49,20 +48,19 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
 </a></td>
 </tr>
 <tr>
-<td valign="top"><td valign="top">Mon Sep 18<br><i>Last day to drop Spring 2018 classes and not receive a grade of "W"</i></td><td valign="top"></td>
+<td valign="top"><td valign="top">Mon Feb 4<br><i>Last day to drop Spring 2018 classes and not receive a grade of "W"</i></td><td valign="top"></td>
 </tr>
 <tr>
 <td valign="top">3</td>    
-<td valign="top">Sep 19
+<td valign="top">Feb 9
 <a href="week_3_detail.md">
 <ul>
-<li>Everything is a Remix</li>
+<li>Remix  Culture</li>
 <li>Classmate Discovery</li>
 <li>(if applicable) constant input or output</li>
 </ul>
 </a>
-</td>
-<td valign="top">Sep 21<br><a href="week_3_detail.md"></a>
+href="week_3_detail.md"></a>
 <a href="week_3_detail.md">
 <ul>
 <li>Remix Artists</li>
@@ -72,13 +70,12 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
 </tr>
 <tr>
 <td valign="top">4</td>
-<td valign="top">Sep 26<br>Creative Process Annotated Bibliography and Video Documentary:
+<td valign="top">Feb 6<br>Creative Process Annotated Bibliography and Video Documentary:
 <a href="week_4_detail.md"><ul>
 <li>Discuss Creative Process</li>
 <li>Select Creator and Form Midterm Teams</li>
 </ul></a>
-</td>
-<td valign="top">Sep 28<br>Creative Process Annotated Bibliography and Video Documentary:
+<br>Creative Process Annotated Bibliography and Video Documentary:
 <a href="week_4_detail.md">
 <ul>
 <li>Create Individual Annotated Bibliography Draft</li>
