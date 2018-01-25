@@ -1,5 +1,5 @@
 ### DM-UY 1143 Ideation and Prototyping
-##### Spring 2018 • Arlene Ducao • Fridays • 11:00AM-2:50PM • 2MTC MAGNET 820
+##### Spring 2018 • Arlene Ducao • Fridays • 11:00AM-2:40PM • 2MTC MAGNET 820
 
 # Schedule
 
@@ -142,7 +142,7 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
 </ul></a>
 </td>
 </tr>
-<tr> <b>NO CLASS on MARCH 16: SPRING BREAK</b></tr>
+<tr><td> <b>NO CLASS on MARCH 16: SPRING BREAK</b></td></tr>
 <tr>
 <td valign="top">8</td>     
 <td valign="top">Mar 23<br>Creative Process Annotated Bibliography and Video Documentary: 
@@ -268,7 +268,7 @@ Midterm Self-Assessment DUE
 <li>Iterate Lo-fi Prototype Delivery Medium</li>
 <li>Iterate Hi-fi Prototype Draft of Object</li>
 </ul>
-<a href="future.md">Future Dystopia / Utopia Project DUE</a></strong></li><li>Future Dystopia / Utopia Project Annotated Bibliography DUE
+<a href="future.md">Future Dystopia / Utopia Project DUE</a></strong></li>
 </td>
 </tr>
 <tr>
