@@ -1,5 +1,5 @@
 ### DM-UY 1143 Ideation and Prototyping
-##### Spring 2018 • Arlene Ducao • Fridays • 11:00AM-2:50PM • 2MTC MAGNET 820
+##### Spring 2018 • Arlene Ducao • Fridays • 11:00AM-2:40PM • 2MTC MAGNET 820
 
 ---
 ## [Schedule:](schedule.md) Week 2
@@ -13,8 +13,8 @@
 </tr>
 <tr>
   <td valign="top">2</td>
-  <td valign="top" width="48%"><strong>Sep 12</strong></td>
-  <td valign="top" width="48%"><strong>Sep 14</strong></td>
+  <td valign="top" width="48%"><strong>1st Half</strong></td>
+  <td valign="top" width="48%"><strong>2nd Half<strong></td>
 </tr>
 <!--class-->
 <tr>
