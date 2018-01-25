@@ -15,8 +15,8 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
 <tr>
 <th width="4%">wk</th>
 <th width="48%">Fridays (Due on Date Listed)</th>
-
 </tr>
+
 <tr>
 <td valign="top">1</td>
 <td valign="top">Jan 26
@@ -48,7 +48,7 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
 </a></td>
 </tr>
 <tr>
-<td valign="top"><td valign="top">Mon Feb 4<br><i>Last day to drop Spring 2018 classes and not receive a grade of "W"</i></td>
+<td valign="top">Mon Feb 4<br><i>Last day to drop Spring 2018 classes and not receive a grade of "W"</i></td>
 </tr>
 <tr>
 <td valign="top">3</td>    
@@ -66,6 +66,7 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
 <li>Brainstorm Creators</li>
 </ul>
 </a>
+</td>
 </tr>
 <tr>
 <td valign="top">4</td>
