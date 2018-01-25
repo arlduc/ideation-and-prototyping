@@ -60,7 +60,6 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
 <li>(if applicable) constant input or output</li>
 </ul>
 </a>
-href="week_3_detail.md"></a>
 <a href="week_3_detail.md">
 <ul>
 <li>Remix Artists</li>
@@ -87,7 +86,7 @@ href="week_3_detail.md"></a>
 </tr>
 <tr>
 <td valign="top">5</td>
-<td valign="top">Oct 03<br>Creative Process Annotated Bibliography and Video Documentary:
+<td valign="top">Feb 23<br>Creative Process Annotated Bibliography and Video Documentary:
 <a href="week_5_detail.md">
 <ul>
 <li>(if applicable) constant input or output</li>
@@ -96,8 +95,7 @@ href="week_3_detail.md"></a>
 <li>Create Team Image or Text Storyboard Draft</li>   
 
 </ul></a>
-</td>
-<td valign="top">Oct 05<br>Creative Process Annotated Bibliography and Video Documentary:
+<br>Creative Process Annotated Bibliography and Video Documentary:
 <a href="week_5_detail.md">
 <ul>
 <li>(if applicable) Iterate Team Annotated Bibliography Draft</li>
@@ -110,7 +108,7 @@ href="week_3_detail.md"></a>
 </tr>
 <tr>
 <td valign="top">6</td>    
-<td valign="top">Oct 10<br>Creative Process Annotated Bibliography and Video Documentary:
+<td valign="top">Mar 2<br>Creative Process Annotated Bibliography and Video Documentary:
 <a href="week_6_detail.md">
 <ul>
 <li>(if applicable) constant input or output</li>
@@ -119,8 +117,7 @@ href="week_3_detail.md"></a>
 <li>(if applicable) Create Video Draft</li>
 
 </ul></a>
-</td>
-<td valign="top">Oct 12<br>Creative Process Annotated Bibliography and Video Documentary:
+<br>Creative Process Annotated Bibliography and Video Documentary:
 <a href="week_6_detail.md">
 <ul>
 <li>(if applicable) Iterate Hybrid Animatic / Video Draft</li>
@@ -130,15 +127,14 @@ href="week_3_detail.md"></a>
 </tr>
 <tr>
 <td valign="top">7</td>     
-<td valign="top">Oct 17<br>Creative Process Annotated Bibliography and Video Documentary: 
+<td valign="top">Mar 9<br>Creative Process Annotated Bibliography and Video Documentary: 
 <a href="week_7_detail.md">
 <ul>
 <li>(if applicable) Create or Iterate Hybrid Animatic / Video Draft</li>
 <li>(if applicable) Create or Iterate Video Draft</li>
 <li>(if applicable) constant input or output</li>
 </ul></a>
-</td>
-<td valign="top">Oct 19<br>Creative Process Annotated Bibliography and Video Documentary:
+<br>Creative Process Annotated Bibliography and Video Documentary:
 <a href="week_7_detail.md">
 <ul>
 <li>(if applicable) Create or Iterate Hybrid Animatic / Video Draft</li>
@@ -148,34 +144,27 @@ href="week_3_detail.md"></a>
 </tr>
 <tr>
 <td valign="top">8</td>     
-<td valign="top">Oct 24<br>Creative Process Annotated Bibliography and Video Documentary: 
+<td valign="top">Mar 16<br>Creative Process Annotated Bibliography and Video Documentary: 
 <a href="week_8_detail.md">
 <ul>
 <li>(if applicable) Iterate Hybrid Animatic / Video Draft</li>
 <li>(if applicable) Create or Iterate Video Draft</li>
 <li>(if applicable) constant input or output</li>
 </ul></a>
-</td>
-<td valign="top">Oct 26<br>Creative Process Annotated Bibliography and Video Documentary: 
+<br>Creative Process Annotated Bibliography and Video Documentary: 
 <a href="week_8_detail.md">
 <ul>
 <li>(if applicable) Iterate Hybrid Animatic / Video Draft</li>
 <li>(if applicable) Iterate Video Draft</li>
 </ul></a>
-</td>
-</tr> 
-<tr>
-<td valign="top"></td>
-<td valign="top" colspan="2"><strong>Midterm One on Ones</strong><br>
-Mon 10/30 through Thu 11/2
-<br><br>
+
 Midterm Self-Assessment DUE 
 <ul>
 </ul></td>
 </tr>
 <tr>
 <td valign="top">9</td>      
-<td valign="top">Oct 31<br>
+<td valign="top">Mar 23<br>
 <a href="week_9_detail.md">
 <strong>
 <ul>
@@ -183,8 +172,7 @@ Midterm Self-Assessment DUE
 <li>Final Annotated Bibliography DUE</li>
 <li>(if applicable) constant input or output</li>
 </ul>
-</strong></a></td>
-<td valign="top">Nov 2<br>Future Dystopia / Utopia Project: 
+</strong></a><br>Future Dystopia / Utopia Project: 
 <a href="week_9_detail.md">
 <ul>
 <li>Brainstorm Themes &amp; Ideas</li> 
@@ -196,7 +184,7 @@ Midterm Self-Assessment DUE
 
 <tr>
 <td valign="top"></td>
-<td valign="top" colspan="2">Mon Nov 6<br><strong><i>Last Day to Withdraw</i></strong></td>
+<td valign="top" colspan="2">Fri Mar 30<br><strong><i>Last Day to Withdraw</i></strong></td>
 </tr>
 <tr>
 <td valign="top">10</td>     
