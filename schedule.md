@@ -14,24 +14,24 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
 <table border="1">
 <tr>
 <th width="4%">wk</th>
-<th width="48%">Tuesdays (Due on Date Listed)</th>
-<th width="48%">Thursdays (Due on Date Listed)</th>
+<th width="48%">Fridays (Due on Date Listed)</th>
+
 </tr>
 <tr>
 <td valign="top">1</td>
-<td valign="top">Sep 5
+<td valign="top">Jan 26
 <a href="week_1_detail.md">
 <ul>
 <li>Course and Student Introductions</li>
 <li>Overview of Course</li>
 </ul>
-</a></td>
-<td valign="top">Sep 7
+</a>
 <a href="week_1_detail.md">
 <ul>
 <li>Personal Inventories</li>
 </ul>
-</a></td>
+</a>
+</td>
 </tr>
 <tr>
 <td valign="top">2</td> 
