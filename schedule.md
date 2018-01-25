@@ -142,9 +142,10 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
 </ul></a>
 </td>
 </tr>
+<tr> <b>NO CLASS on MARCH 16: SPRING BREAK</b></tr>
 <tr>
 <td valign="top">8</td>     
-<td valign="top">Mar 16<br>Creative Process Annotated Bibliography and Video Documentary: 
+<td valign="top">Mar 23<br>Creative Process Annotated Bibliography and Video Documentary: 
 <a href="week_8_detail.md">
 <ul>
 <li>(if applicable) Iterate Hybrid Animatic / Video Draft</li>
@@ -164,7 +165,7 @@ Midterm Self-Assessment DUE
 </tr>
 <tr>
 <td valign="top">9</td>      
-<td valign="top">Mar 23<br>
+<td valign="top">Mar 30<br>
 <a href="week_9_detail.md">
 <strong>
 <ul>
@@ -188,7 +189,7 @@ Midterm Self-Assessment DUE
 </tr>
 <tr>
 <td valign="top">10</td>     
-<td valign="top">Nov 7<br>Future Dystopia / Utopia Project: 
+<td valign="top">Apr 6<br>Future Dystopia / Utopia Project: 
 <a href="week_10_detail.md">
 <ul>
 <li>Love Letter or Breakup Letter</li>
@@ -198,8 +199,7 @@ Midterm Self-Assessment DUE
 <li>(if applicable) constant input or output</li>  
 </ul>
 </a>
-</td>
-<td valign="top">Nov 9<br>Future Dystopia / Utopia Project: <a href="week_10_detail.md">
+<br>Future Dystopia / Utopia Project: <a href="week_10_detail.md">
 <ul>
 <li>Evolution Timeline</li>
 <li>Annotated Bibliography</li>
@@ -209,7 +209,7 @@ Midterm Self-Assessment DUE
 </tr>
 <tr>
 <td valign="top">11</td>   
-<td valign="top">Nov 14<br>Future Dystopia / Utopia Project: 
+<td valign="top">Apr 13<br>Future Dystopia / Utopia Project: 
 <a href="week_11_detail.md">
 <ul>
 <li>(if applicable) Revised Evolution Timeline</li>
@@ -219,8 +219,7 @@ Midterm Self-Assessment DUE
 <li>Brainstorm, Sketch, &amp; Map Delivery Medium</li>
 <li>Secondary Research</li>
 <li>(if applicable) constant input or output</li>
-</ul></a></td>
-<td valign="top">Nov 16<br>Future Dystopia / Utopia Project: 
+</ul></a><br>Future Dystopia / Utopia Project: 
 <a href="week_11_detail.md">
 <ul>
 <li>Iterate Sketches &amp;  Maps of Object(s)</li>
@@ -229,8 +228,9 @@ Midterm Self-Assessment DUE
 </ul></a></td>
 </tr>
 <tr>
+
 <td valign="top">12</td>   
-<td valign="top">Nov 22<br>Future Dystopia / Utopia Project: 
+<td valign="top">Apr 20<br>Future Dystopia / Utopia Project: 
 <a href="week_12_detail.md">
 <ul>
 <li>Storyboard Draft of Delivery Medium</li>
@@ -239,11 +239,10 @@ Midterm Self-Assessment DUE
 <li>(if applicable) constant input or output</li>
 </ul></a>
 </td>
-<td valign="top">Nov 24<br><i>NO CLASS: Thanksgiving Holiday</i></td>
 </tr>
 <tr>
 <td valign="top">13</td>  
-<td valign="top">Nov 28<br>Future Dystopia / Utopia Project: 
+<td valign="top">Apr 27<br>Future Dystopia / Utopia Project: 
 <a href="week_13_detail.md">
 <ul>
 <li>Iterate Storyboard Draft of Delivery Medium</li>
@@ -252,8 +251,7 @@ Midterm Self-Assessment DUE
 <li>(if applicable) constant input or output</li>
 </ul>
 </a>
-</td>
-<td valign="top">Nov 30<br>Future Dystopia / Utopia Project: 
+<br>Future Dystopia / Utopia Project: 
 <a href="week_13_detail.md">
 <ul>
 <li>Lo-fi Prototype Delivery Medium</li>
@@ -264,13 +262,12 @@ Midterm Self-Assessment DUE
 </tr>
 <tr>
 <td valign="top">14</td>    
-<td valign="top">Dec 5<br>Future Dystopia / Utopia Project: 
+<td valign="top">May 4<br>Future Dystopia / Utopia Project: 
 <a href="week_14_detail.md"></a>
 <ul>
 <li>Iterate Lo-fi Prototype Delivery Medium</li>
 <li>Iterate Hi-fi Prototype Draft of Object</li>
-</ul></td>
-<td valign="top">Dec 7<br>Future Dystopia / Utopia Project: 
+</ul><br>Future Dystopia / Utopia Project: 
 <a href="week_14_detail.md"></a>
 <ul>      
 <li>Iterate Lo-fi Prototype Delivery Medium</li>
