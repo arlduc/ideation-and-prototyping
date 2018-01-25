@@ -214,7 +214,7 @@ Midterm Self-Assessment DUE
 <ul>
 <li>(if applicable) Revised Evolution Timeline</li>
 <li>Read "One Designer Shares: How to Use Design to Tell a Story" by Kevin Quinn and respond on process website</li>
-<li>Watch "Ira Glass on storytelling (all 4 parts)" on YouTube and respond on process website</li>
+<li>Watch 4 "TED: How to Tell a Story" videos on YouTube and respond on process website</li>
 <li>Brainstorm, Sketch, &amp; Map Object(s)</li>
 <li>Brainstorm, Sketch, &amp; Map Delivery Medium</li>
 <li>Secondary Research</li>
