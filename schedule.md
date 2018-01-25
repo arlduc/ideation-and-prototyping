@@ -267,20 +267,12 @@ Midterm Self-Assessment DUE
 <ul>
 <li>Iterate Lo-fi Prototype Delivery Medium</li>
 <li>Iterate Hi-fi Prototype Draft of Object</li>
-</ul><br>Future Dystopia / Utopia Project: 
-<a href="week_14_detail.md"></a>
-<ul>      
-<li>Iterate Lo-fi Prototype Delivery Medium</li>
-<li>Iterate Hi-fi Prototype Draft of Object</li>
 </ul>
+<a href="future.md">Future Dystopia / Utopia Project DUE</a></strong></li><li>Future Dystopia / Utopia Project Annotated Bibliography DUE
 </td>
 </tr>
 <tr>
-<td valign="top">15</td>     
-<td valign="top">Dec 12<br><i><strong>NO CLASS: Legislative Day</strong> - Classes will meet according to a Monday schedule</i></td>  
-<td valign="top">Dec 14<ul><li><strong><a href="future.md">Future Dystopia / Utopia Project DUE</a></strong></li><li>Future Dystopia / Utopia Project Annotated Bibliography DUE</li></ul></td>
-</tr>
-<tr>
+  
 <td valign="top"></td>
 <td valign="top"></td>
 <td valign="top"></td>
