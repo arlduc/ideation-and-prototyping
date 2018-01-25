@@ -29,6 +29,7 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
 <a href="week_1_detail.md">
 <ul>
 <li>Personal Inventories</li>
+<li>Input Maps</li>
 </ul>
 </a>
 
@@ -38,7 +39,6 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
 <td valign="top">Feb 2
 <a href="week_2_detail.md">
 <ul>
-<li>Input Maps</li>
 <li>(if applicable) constant input or output</li>
 </ul>
 <a href="week_2_detail.md">
