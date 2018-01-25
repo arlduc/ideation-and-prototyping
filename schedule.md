@@ -273,12 +273,6 @@ Midterm Self-Assessment DUE
 <a href="future.md">Future Dystopia / Utopia Project DUE</a></strong></li>
 </td>
 </tr>
-<tr>
-  
-<td valign="top"></td>
-<td valign="top"></td>
-<td valign="top"></td>
-</tr>
 </table>
 
 
