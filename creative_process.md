@@ -10,7 +10,7 @@ Working in groups of two, you will research, analyze, evaluate, and communicate 
 | --- | --- |
 
 
-Recommended Choices \(check with me if you'd like to choose someone else\):
+**Required Choices**. \(Choosing someone else requires instructor approval. Note the focus on diversity and inclusion in this section of the course.\)
 
 * Sarah Blakely 
 * Hedy Lamar 
