@@ -138,14 +138,18 @@ Students will conduct self assessments as well as be evaluated by the professor 
 
 * Attendance is mandatory and will be taken at the beginning of every class. Since there is so much technical, conceptual, and design information to absorb, regular attendance is essential.
 * Unexcused absences will affect your grade. One absence is allowed; after that, your final, overall, numerical grade will drop by 5 percent \(1/2 a grade point \(e.g. A to an A-\)\) for each additional absence.
-* Be on Time. Tardiness will affect your grade. For every 15 minutes of tardiness, your final, numerical grade will drop by 0.625 percent
+* Be on Time. Tardiness will affect your grade. For every 15 minutes of tardiness, your final, numerical grade will drop by 0.625 percent. 
+* For an absence or lateness to be excused, you must provide official documentation to justify the lateness \(e.g. from your doctor, from the MTA for a train delay, etc\).
 * Contact the professor IN ADVANCE if you will not be in class \(in person is preferred\).
 * Attendance is mandatory for the midterm and final presentations / critiques.
+
+
 
 #### Your final grade will be based on a synthesis of quantitative & qualitative rubrics:
 
 * Makeup assignments are only available when discussed with and approved by the instructor in advance of the due date.
 * Each student will be judged on the commitment, fearlessness, and continuous improvement that their work shows. Incomplete or unsatisfactory work will receive a failing grade.
+* Lateness: For every week an assignment is late, I will subtract 5 points out of 100 as the highest possible grade. This will be enforced starting on February 2 \(for assignments due Feb 9\).
 
 ##### Quantitative Grading Overview
 
@@ -155,6 +159,7 @@ Students will conduct self assessments as well as be evaluated by the professor 
 * 5% [Self Assessments](self_assessments.md) \(2.5% each\)
 * 10% [Notebook or Sketchbook](notebook_or_sketchbook.md)
 * 12% [Constant Input Choices](constant_input_choices.md)
+  * Input/Output schedule: If I don’t see a proposed schedule, I’ll assume that you will post Constant Input/Output weekly.
 * 14% [Process Website](process_website.md)
 * 20% [Future Dystopia / Utopia Project](future.md)
 * 31% [Creative Process Annotated Bibliography & Video Documentary](creative_process.md)
