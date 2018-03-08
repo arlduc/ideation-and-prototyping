@@ -154,13 +154,14 @@ Students will conduct self assessments as well as be evaluated by the professor 
 * 2% [Input Map](input_map.md)
 * 2% [Love Letter or Breakup Letter](letter.md)
 * 4% [Object Evolution Timeline](evolution_timeline.md)
-* 5% [Self Assessments](self_assessments.md) \(2.5% each\)
-* 10% [Notebook or Sketchbook](notebook_or_sketchbook.md)
+* 4% [Self Assessments](self_assessments.md) \(2% each\)
+* 8% [Notebook or Sketchbook](notebook_or_sketchbook.md)
+* 10% Participation
 * 12% [Constant Input Choices](constant_input_choices.md)
   * Input/Output schedule: If I don’t see a proposed schedule, I’ll assume that you will post Constant Input/Output weekly.
-* 14% [Process Website](process_website.md)
-* 20% [Future Dystopia / Utopia Project](future.md)
-* 31% [Creative Process Annotated Bibliography & Video Documentary](creative_process.md)
+* 14% [Process Website](process_website.md) 
+* 18% [Future Dystopia / Utopia Project](future.md)
+* 26% [Creative Process Annotated Bibliography & Video Documentary](creative_process.md)
 
 ##### Qualitative Grading Overview
 
