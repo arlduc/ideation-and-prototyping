@@ -28,7 +28,7 @@
   * [Self Assessments](self_assessments.md)
 * [Projects](projects.md)
   * [Creative Process Annotated Bibliography and Video Documentary](creative_process.md)
-  * [Future Dystopia Utopia Project](future.md)
+  * [Long-Term Prototyping Project](future.md)
 * [Printed Assignment Guidelines](printed_assignment_guidelines.md)
 * [Recommended Resources](recommended_resources.md)
 * [End of Semester Deliverables](end-of-semester-deliverables.md)
