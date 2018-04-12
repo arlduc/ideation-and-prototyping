@@ -13,7 +13,7 @@ _This project can be done as a team or as an individual. _
 * What does your imagined future \(Prompt 1\) or real context \(Prompt 2\) look, sound, and feel like? \(your framing **story**\)
 * Who is your potential audience, and what **message** would you transmit to them\(either from the future, or from the present\)? 
 * You will brainstorm, research, sketch, map, design, and build **physical prototypes of an object\(s\)** from your imagined future.
-* You will also create an **Annotated Bibliography **of 5 resources you used as you prototyped. This bibliography should be in MLA format. Resources can include how-to guides, research articles or books on your topic, interviews with potential users, etc.
+* You will also create a** Bibliography **of 5 resources you used as you prototyped. This bibliography should be in MLA format but does not need to be annotated. Resources can include how-to guides, research articles or books on your topic, interviews with potential users, etc.
 * You will deliver your message in any final **medium\(s\)** you choose. The only requirement is that it includes image\(s\), physical or virtual model\(s\), or video\(s\) of your prototyped physical object\(s\).
 
 I suggest brainstorming one or more of the following themes to get you started, but you will need to eventually drill down from these very broad themes to specificity:

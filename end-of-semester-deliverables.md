@@ -23,9 +23,9 @@ with the following files and
 
 ## Long-Term Prototyping Project Documentation
 All students must include:
-* **Annotated Bibliography** of research submitted as pdf or google doc
 * **Framing Story** as pdf or google doc
 * **Message** as pdf or word doc (can be combined in the same document as the framing story or submitted as two separate documents)
+* **Bibliography** of resources you used
 * Photo Documentation of **Object(s)** Prototypes
     * **at least*** 3 images of your object(s), showcasing overview(s) and detail(s)
 * Photo, Video and/or Audio Documentation of Final **Medium(s)** and Prototypes of Mediums **(varies by project)**
