@@ -3,11 +3,11 @@
 ---
 
 # END OF SEMESTER DELIVERABLES
+### Presentation on May 4. Google Drive materials due Sunday May 6 @ 10AM
 
 <ol>
 <li>Long-Term Prototyping Project Documentation</li>
 <li>Creative Process Annotated Bibliography &amp; Video Documentary</li>
-<li>(If Applicable) Constant Input Native Files</li>
 <li>Final Self Assessment</li>
 </ol>
  
@@ -19,7 +19,6 @@ with the following files and
 <li>Creative Process Annotated Bibliography & Video Documentary (.mov, .mp4, etc)</li>
 <li>(if applicable) with constant input folder with native files</li>
 <li>Final Self Assessment as pdf</li>
-<li>Letter as pdf or Video To Next Cohort (.mov, .mp4, etc)</li>
 </ul>
 
 ## Long-Term Prototyping Project Documentation
@@ -41,8 +40,5 @@ All students must include:
 ##Final Self Assessment
 *Include in google drive folder, I&P Spring 2018*
 
-<ul>
-<li>Pinned on slack.
-</ul>
 
 
