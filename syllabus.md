@@ -153,18 +153,17 @@ Students will conduct self assessments as well as be evaluated by the professor 
 
 * 2% [Input Map](input_map.md)
 * 2% [Love Letter or Breakup Letter](letter.md)
-* 2% [Object Evolution Timeline](evolution_timeline.md)
 * 2% [Personal Inventory](https://arlduc.gitbooks.io/ideation-and-prototyping/content/personal_inventory.html)
 * 2% [Classmate Discovery](https://arlduc.gitbooks.io/ideation-and-prototyping/content/classmate_discovery.html)
 * 2% [Love Letter or Breakup Letter](https://arlduc.gitbooks.io/ideation-and-prototyping/content/letter.html)
 * 4% [Self Assessments](self_assessments.md) \(2% each\)
 * 3% [Notebook or Sketchbook](notebook_or_sketchbook.md)
-* 10% [Constant Input Choices](constant_input_choices.md)
+* 10% [Constant Input Choice](constant_input_choices.md)
   * Input/Output schedule: If I don’t see a proposed schedule, I’ll assume that you will post Constant Input/Output weekly.
-* 14% [Process Website](process_website.md) 
-* 13% Participation
+* 16% [Process Website](process_website.md) 
+* 12% Participation
 * 22% [Creative Process Annotated Bibliography & Video Documentary](creative_process.md)
-* 23% [Future Dystopia / Utopia Project](future.md)
+* 25% [Long-term Prototyping Project](future.md)
 
 ##### Qualitative Grading Overview
 
